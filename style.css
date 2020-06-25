@@ -1,0 +1,62 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: nonne;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Verdana; 
+	background: #e2e8f0;
+}
+
+nav
+{
+	 background: #2c5282;
+	 height: 20px;
+	 width: 100%;
+	 text-align: center;
+}
+
+label.logo
+{
+	color: white;
+	
+}
+form
+{
+	text-align: center;
+}
+
+footer
+{
+	font-family: Verdana; 
+	
+	background: #2c5282;
+	 height: 20px;
+	 width: 100%;
+	 text-align: center;
+	 color: white;
+}
+
+.container
+{
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+.img
+{
+	
+	width: 20%;
+	height: 300px;
+	margin: 20px;
+	box-sizing: border-box;
+	font-size: 50px;
+	
+}
